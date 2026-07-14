@@ -1,10 +1,10 @@
 # Hi there 👋
 
-` 🔭 I just finished my PhD, entitled "Urban fluctuations in the Nile Delta before the Arabs. Between the Nile river and the Mediterranean sea."`
+` 🔭 Archaeologist, developer, and occasional saxophonist."`
 
-`🌱 I’m always learning or trying to learn PHP, Postgres, and Python. More recently, I started learning D3.js, but I'm currently looking back at R—which I used more than 10 years ago—since I need to run some analyses soon, and yes, they need to be reproducible, as science should always be.`
+`🌱 I’m always learning or trying to learn PHP, Postgres, and Python. I study how societies organise space to stabilise settlements and political systems in environmentally dynamic landscapes — then I write code to visualise what I find..`
 
-🤔 I’m always looking for help with my code snippets. I'm a programmer, but I also combine, edit, or make use of code created by other and adapt it to my necessities, therefore, some of my code snippets are messy and I am certain that can be improved and corrected. Nevertheless, until now I have solved very specific problems for my own research interests.
+🤔 [Go here to find out more about me and my work ](https://ishibaro.github.io/)..
 
 ### 💬 Ask me about anything related to visualizing human use of space, and if I can't help you, I might be able to redirect you to the correct people
 
